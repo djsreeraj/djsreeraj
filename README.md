@@ -12,7 +12,7 @@
 <h3 align="left">My Blogs:</h3>
 
 
-- ⚡ SmartCodeHelper: www.smartcodeheper.com
+- ⚡ SmartCodeHelper: www.smartcodehelper.com
 - ⚡ VASTINFOS: www.vastinfos.com
 
 
