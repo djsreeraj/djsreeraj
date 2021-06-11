@@ -10,8 +10,11 @@
 - 📫 Reach me via: **sreeraj@infoexpo.in**
 
 <h3 align="left">My Blogs:</h3>
-- 📫 SmartCodeHelper: www.smartcodeheper.com
-- 📫 VASTINFOS: www.vastinfos.com
+
+
+- 🔭 SmartCodeHelper: www.smartcodeheper.com
+- 🌱 VASTINFOS: www.vastinfos.com
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
