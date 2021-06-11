@@ -3,7 +3,7 @@
 
 <h3>I'm a Fullstack Engineer from India.</h3>
 
-- 🔭 I’m currently working on React JS Projects.
+- 🔭 I’m currently working on React JS Projects. <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px" />
 
 - 🌱 I’m currently learning **Advanced ReactJs, TypeScript, GraphQL**
 
