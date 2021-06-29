@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on React JS Projects.
 - 🌱 I’m currently learning **Advanced ReactJs, TypeScript, GraphQL**
 
-- 📫 Reach me via: **sreeraj@infoexpo.in**
+- 📫 Reach me via :> **sreeraj@infoexpo.in**
 
 <h3 align="left">My Blogs:</h3>
 
